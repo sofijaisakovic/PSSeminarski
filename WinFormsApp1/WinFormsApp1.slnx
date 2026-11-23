@@ -1,3 +1,8 @@
 <Solution>
+  <Project Path="../ConsoleApp1/ConsoleApp1.csproj" Id="20e5b36f-0b1b-45ac-89ec-55a0ad20d334" />
+  <Project Path="../DbBroker/DbBroker.csproj" Id="64953a9d-d7dc-417c-a196-810310e312da" />
+  <Project Path="../Domain/Domain.csproj" Id="faee1afe-9568-4368-bdfd-7ac32c8ab3a8" />
+  <Project Path="../Konfiguracija/Konfiguracija.csproj" Id="3072b292-deef-4fe0-ac8e-699bfa66c17b" />
+  <Project Path="../SistemskeOperacija/SistemskeOperacija.csproj" Id="d08155c6-b4f4-4c6f-a196-0d471a15a3d5" />
   <Project Path="WinFormsApp1.csproj" />
 </Solution>
